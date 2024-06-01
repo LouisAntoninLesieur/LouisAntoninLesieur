@@ -8,7 +8,7 @@ You can call me as a **"soon-to-be"** developer.
 
 I **just started** this wonderfull journey and I **already enjoy** this so much. **Each and every single thing** we're going to share will be appreciated. Can't wait to learn more ! 
 
-On May 27, 2024 I entered [**École O'Clock**](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) for the next 6 months.
+On May 27, 2024 I started studying at [**École O'Clock**](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) for the next 6 months.
 
 ## What am I learnig ?
 
