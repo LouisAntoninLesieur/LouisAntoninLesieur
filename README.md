@@ -20,8 +20,6 @@ On May 27, 2024 I entered [**École O'Clock**](https://oclock.io/?_gl=1*gh1vyf*_
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=React&color=2B343B)
 
-
-
 ## How to reach me ?
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-antonin-lesieur-158397268/)
