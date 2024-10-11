@@ -6,7 +6,11 @@
 I'm Louis-Antonin Lesieur, a bearded 30 years old 🇫🇷 man and I'm glad you're **currently reading** this.
 You can call me as a **"soon-to-be"** developer. 
 
-I **just started** this wonderfull journey and I **already enjoy** this so much. **Each and every single thing** we're going to share will be appreciated. Can't wait to learn more ! 
+**I am currently open to work**
+
+**Each and every single thing** we're going to share will be appreciated. Can't wait to learn more !
+
+Feel free to reach me ➡️[ **right here (professionnal mail)** ](mailto:louisantonin.lesieur@icloud.com)⬅️
 
 On May 27, 2024 I entered [**École O'Clock**&#10138;](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) for the next 6 months.
 
@@ -23,6 +27,7 @@ For now :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
 More **skills and languages** to be learned, check the [repo](https://github.com/LouisAntoninLesieur/LouisAntoninLesieur/blob/main/README.md?plain=1), it's commented bellow ⬇️
 
 <!--- POLISHING THE SHIELDS UNTIL I'M READY
@@ -36,7 +41,7 @@ Do you want to provide support, advices ? Check the "How to reach me ?" section 
 
 -->
 
-## How to reach me ?
+## How to reach me / follow me / share anything ?
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/louis-antonin-lesieur-158397268/)
 [![GitHub followers](https://img.shields.io/github/followers/LouisAntoninLesieur?style=social)](https://github.com/LouisAntoninLesieur)
