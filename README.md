@@ -8,7 +8,7 @@ On May 27, 2024 I entered [**École O'Clock**&#10138;](https://oclock.io/?_gl=1*
 
 **I am currently open to work**
 
-**Each and every single thing** we're going to share will be appreciated. Can't wait meet you !
+**Each and every single thing** we're going to share will be appreciated. Can't wait meet to you !
 
 Let's work together ? Contact me ➡️[ here (professionnal mail) ](mailto:louisantonin.lesieur@icloud.com)⬅️
 
