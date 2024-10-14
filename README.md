@@ -4,7 +4,7 @@
 
 I'm Louis-Antonin Lesieur, a bearded 30 years old 🇫🇷 man and I'm glad you're **currently reading** this. 
 
-On May 27, 2024 I entered [**École O'Clock**&#10138;](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) to take part in an intensive learning programme for 6 months.
+On May 27, 2024 I entered [**École O'Clock**&#10138;](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) as a student for 6 months.
 
 **I am currently open to work**
 
