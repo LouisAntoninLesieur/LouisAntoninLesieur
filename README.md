@@ -1,4 +1,5 @@
-# Bonjour World ! I am an {(English speaker) French Developer}
+
+![bonnjourWorld](https://github.com/user-attachments/assets/4c95a381-0ce9-4df8-9a7c-3e578c0475ac)
 
 ## What about me ?
 
