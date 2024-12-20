@@ -1,11 +1,14 @@
 
-![bonnjourWorld](https://github.com/user-attachments/assets/4c95a381-0ce9-4df8-9a7c-3e578c0475ac)
+![bonnjourWorld (1)](https://github.com/user-attachments/assets/63183423-3d72-4519-8cad-f44eb307e30e)
 
 ## What about me ?
 
 I'm Louis-Antonin Lesieur, a bearded 30 years old 🇫🇷 man and I'm glad you're **currently reading** this. 
 
-On May 27, 2024 I entered [**École O'Clock**&#10138;](https://oclock.io/?_gl=1*gh1vyf*_up*MQ..&gclid=CjwKCAjwjeuyBhBuEiwAJ3vuoYidKAFSiqoUj86HHjfjTP5Jp5z_2sDp-ExjX2vkUIWGKHD-BR92xRoCZC8QAvD_BwE) as a student for 6 months.
+Web Developer | JS | Node | Express | SQL | Postgres
+In love with APIs 💚
+
+Count on my imagination and adaptability if you need someone to make your front-end application shine 🎨
 
 **I am currently open to work 👋🏻**
 
