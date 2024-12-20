@@ -1,8 +1,6 @@
 
 ![bonnjourWorld (1)](https://github.com/user-attachments/assets/63183423-3d72-4519-8cad-f44eb307e30e)
 
-## What about me ?
-
 ![What about me ](https://github.com/user-attachments/assets/84a178f3-e3db-49b0-b05f-92507278eedf)
 
 **I am currently open to work 👋🏻**
