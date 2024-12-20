@@ -3,18 +3,15 @@
 
 ## What about me ?
 
-I'm Louis-Antonin Lesieur, a bearded 30 years old 🇫🇷 man and I'm glad you're **currently reading** this. 
-
-Web Developer | JS | Node | Express | SQL | Postgres
-In love with APIs 💚
-
-Count on my imagination and adaptability if you need someone to make your front-end application shine 🎨
+![What about me ](https://github.com/user-attachments/assets/84a178f3-e3db-49b0-b05f-92507278eedf)
 
 **I am currently open to work 👋🏻**
 
 **Each and every single thing** we're going to share will be appreciated. Can't wait to meet you !
 
 Let's work together ? Contact me ➡️[ here (professionnal mail) ](mailto:louisantonin.lesieur@icloud.com)⬅️
+
+
 
 ## Skills :
 
