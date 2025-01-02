@@ -3,7 +3,8 @@
 
 
 
-![What about me ](https://github.com/user-attachments/assets/84a178f3-e3db-49b0-b05f-92507278eedf)
+![What about me  (1)](https://github.com/user-attachments/assets/14f47329-c5ff-4a96-b3bb-bb2eb6c7cc62)
+
 
 **I am currently open to work 👋🏻**
 
