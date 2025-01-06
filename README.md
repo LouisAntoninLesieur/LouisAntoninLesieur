@@ -4,6 +4,11 @@
 ![What about me  (1)](https://github.com/user-attachments/assets/14f47329-c5ff-4a96-b3bb-bb2eb6c7cc62)
 
 ---
+
+**RELEASED NPM PACKAGES**
+
+Meet **ciceron**, your CLI assistant to translate in-files comments : https://www.npmjs.com/package/ciceron
+
 **PROJECTS IN PRODUCTION**
 
 Check my JWT Secret Generator : https://secret-provider.vercel.app/
