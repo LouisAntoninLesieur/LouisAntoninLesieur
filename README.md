@@ -7,11 +7,11 @@
 
 **RELEASED NPM PACKAGES**
 
-Meet **ciceron**, your CLI assistant to translate in-files comments : https://www.npmjs.com/package/ciceron
+🟢 Meet **ciceron**, your CLI assistant to translate in-files comments : https://www.npmjs.com/package/ciceron
 
-Meet **navicommit**, your CLI assistant to learn how to write fancy commits : https://www.npmjs.com/package/navicommit
+🔵 Meet **navicommit**, your CLI assistant to learn how to write fancy commits : https://www.npmjs.com/package/navicommit
 
-Meet **davinsecret**, your CLI assistant to generate JWT secrets directly into your .env file : https://www.npmjs.com/package/davinsecret
+🟣 Meet **davinsecret**, your CLI assistant to generate JWT secrets directly into your .env file : https://www.npmjs.com/package/davinsecret
 
 **PROJECTS IN PRODUCTION**
 
