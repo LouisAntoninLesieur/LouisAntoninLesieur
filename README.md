@@ -13,6 +13,8 @@
 
 🟣 Meet **davinsecret**, your CLI assistant to generate JWT secrets directly into your .env file : https://www.npmjs.com/package/davinsecret
 
+![npm-banner](https://github.com/user-attachments/assets/b5c0e743-f994-4a32-8f56-c4fc18d41d61)
+
 **WEB PROJECTS IN PRODUCTION**
 
 Check my JWT Secret Generator : https://secret-provider.vercel.app/
